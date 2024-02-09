@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+   background-color: gray;
+}
+.head1{
+
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: start;
+    background-color: black;
+    color: white;
+ 
+}
+h1
+{
+    font-size: 47px;
+}
+.billa
+{
+    padding-top: 20px;
+    background-color: black;
+    width: 50%;
+    display: flex;
+    justify-content: right;
+}
+.hub
+{ padding-left: 5px;
+    background-color: orange;
+    width: 110px;
+    height: 50%;
+    color: black;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: start;
+    border-radius: 5%;
+}
+.grntBtn
+{   margin-top: 30px;
+    height: 30px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+
+}
+button{
+    background-color: #f01c23;
+    color: white;
+    font-weight: 700;
+    height: 70px;
+    width: 200px;
+    font-size: larger;
+
+}
+.imgBox
+{  margin: 50px 10px;
+    height: auto;
+    width: auto;
+    border: 2px solid rgb(50, 50, 50);
+    display: flex;
+    justify-content: center;
+    background-color: #b2dbbf;
+
+}
+.catImg
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 300px;
+    width: 300px;
+    border: 2px solid rgb(50, 50, 50);
+    border-radius: 5%;
+    background-color: aliceblue;
+    background-image: url();
+    background-size: cover;
+}
+.factBox
+{
+    height: auto;
+    width: auto;
+    margin: 40px 10px;
+    border: 2px solid rgb(62, 62, 62);
+    background-color: #f3ffbd;
+    padding: 10px;
+    font-family:Helvetica, sans-serif;
+   
+}
+.copyright
+{   height: 30px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+#copyr
+{
+    font-size: 10px;
+}
+.cpyr{
+    display: flex;
+    justify-content: end;
+    
+}
